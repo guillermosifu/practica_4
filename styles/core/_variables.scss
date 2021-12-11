@@ -1,0 +1,34 @@
+$font-color-primary:#262626;
+$font-family-raleway: 'Raleway', sans-serif;
+$font-family-poppins: 'Poppins', sans-serif;
+
+$linked-icon-color:#0176b5;
+$whatssap-icon-color:#44c24f;
+
+$colors-branding: (
+    primary: #6D0AD3,
+    secondary: #00CF95,
+    third: #0098EF,
+    complementary: #D1FFA2
+);
+
+$colors-semantic: (
+    primary: #EF0E00,
+    secondary: #FF8D4E,
+    tertiary: #7DD0FF,
+    complementary: #00C72C
+);
+
+$font-family: (
+    primary:$font-family-raleway,
+    secondary:$font-family-poppins,
+);
+
+$font-sizes: (
+    global:1.1rem,
+    h2:2.8rem,
+    inputs:1.3rem,
+    blog-main-heading:2.8rem,
+    blog-heading:1.2rem,
+    service-heading:2.4rem
+);
